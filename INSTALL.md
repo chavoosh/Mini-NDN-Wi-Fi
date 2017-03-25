@@ -25,8 +25,8 @@ https://github.com/named-data/ndn-tools
 
 ### Installing Mininet
 
-**Mini-NDN** is based on Mininet. To install Mininet:
-https://github.com/mininet/mininet/INSTALL
+**Mini-NDN-Wifi** is based on Mininet-Wifi. To install Mininet-Wifi:
+https://github.com/intrig-unicamp/mininet-wifi
 
 ### Installing **Mini-NDN**
 
